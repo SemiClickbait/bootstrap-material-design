@@ -57,3 +57,5 @@ cdn:
   popper:         https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js
   popper_hash:    "sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U"
   snackbar:       https://cdn.rawgit.com/FezVrasta/snackbarjs/1.1.0/dist/snackbar.min.js
+
+theme: jekyll-theme-cayman
